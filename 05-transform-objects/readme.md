@@ -14,3 +14,5 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+
+## [See It Live](https://alkrauss48.github.io/threejs-journey/05-transform-objects/dist/)
