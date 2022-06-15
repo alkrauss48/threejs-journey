@@ -22,3 +22,4 @@ npm run build
 
 ## Lessons
 [05-transform-objects](https://alkrauss48.github.io/threejs-journey/05-transform-objects/dist/)
+[06-animations](https://alkrauss48.github.io/threejs-journey/06-animations/dist/)
